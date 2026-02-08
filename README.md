@@ -1,9 +1,11 @@
-# Smart Hostel Issue Tracking System 🏨🔧
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Smart Hostel Tracker](https://img.shields.io/badge/Smart%20Hostel%20Tracker-React%20%2B%20Node.js-blueviolet?style=for-the-badge&logo=appveyor)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
