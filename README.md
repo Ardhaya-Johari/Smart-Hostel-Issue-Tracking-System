@@ -52,7 +52,9 @@ graph TD
     B --> I[Data Access Layer (Prisma/Sequelize)]
     B --> J[Cloudinary Media Uploads]
     A --> K[Charts & Analytics Components]
+
 ```
+
 ---
 ## Technology Stack 🛠️
 
