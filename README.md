@@ -37,9 +37,9 @@ D --> E[Closed]
 > Students report → Admin assigns → Caretaker resolves → Admin closes issue. All status changes timestamped.
 
 ---
-
 ## System Architecture
 
+```mermaid
 graph TD
     A[React Frontend] --> B[Node.js + Express API]
     B --> C[PostgreSQL Database]
@@ -51,7 +51,7 @@ graph TD
     B --> I[Data Access Layer (Prisma/Sequelize)]
     B --> J[Cloudinary Media Uploads]
     A --> K[Charts & Analytics Components]
-
+```
 ---
 ## Technology Stack 🛠️
 
