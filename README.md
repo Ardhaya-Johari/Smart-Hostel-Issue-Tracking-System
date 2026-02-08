@@ -1,5 +1,4 @@
-
-![Smart Hostel Tracker](https://img.shields.io/badge/Smart%20Hostel%20Tracker-React%20%2B%20Node.js-blueviolet?style=for-the-badge&logo=appveyor)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC1FF&width=700&lines=🏨+Smart+Hostel+Issue+Tracking+System;🔧+Report,+Track,+Resolve+Issues+Easily;📊+Analytics+Dashboard+Included)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
