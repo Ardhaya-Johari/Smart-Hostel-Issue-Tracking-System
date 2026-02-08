@@ -45,14 +45,13 @@ graph TD
     A[React Frontend] --> B[Node.js + Express API]
     B --> C[PostgreSQL Database]
     B --> D[JWT Authentication]
-    B --> E[Role-Based Access Control (RBAC)]
+    B --> E["Role-Based Access Control RBAC"]
     A --> F[React Router]
     A --> G[Context API / Redux]
     B --> H[REST Controllers]
-    B --> I[Data Access Layer (Prisma/Sequelize)]
+    B --> I[Data Access Layer Prisma/Sequelize]
     B --> J[Cloudinary Media Uploads]
     A --> K[Charts & Analytics Components]
-
 ```
 
 ---
