@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align:center;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F15A24&width=1000&lines=%F0%9F%8F%A8+Smart+Hostel+Issue+Tracking+System;%F0%9F%94%A7+Report,+Track,+Resolve+Issues+Easily;%F0%9F%93%8A+Analytics+Dashboard+Included" alt="Typing SVG" />
-</p>
+</div>
 
 
 <p align="center">
