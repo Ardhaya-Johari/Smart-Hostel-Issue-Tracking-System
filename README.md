@@ -1,10 +1,7 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F15A24&width=1000&lines=%F0%9F%8F%A8+Smart+Hostel+Issue+Tracking+System;%F0%9F%94%A7+Report,+Track,+Resolve+Issues+Easily;%F0%9F%93%8A+Analytics+Dashboard+Included" 
-    alt="Typing SVG"
-    width="1000"
-    height="200"
-  />
+
+![Smart Hostel Issue Tracking System](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F15A24&center=true&vCenter=true&width=1000&lines=%F0%9F%8F%A8+Smart+Hostel+Issue+Tracking+System;🔧+Report,+Track,+Resolve+Issues+Easily;📊+Analytics+Dashboard+Included)
+
 </div>
 
 
