@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC1FF&width=1000&lines=🏨+Smart+Hostel+Issue+Tracking+System;🔧+Report,+Track,+Resolve+Issues+Easily;📊+Analytics+Dashboard+Included" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC1FF&width=1000&lines=%F0%9F%8F%A8+Smart+Hostel+Issue+Tracking+System;%F0%9F%94%A7+Report,+Track,+Resolve+Issues+Easily;%F0%9F%93%8A+Analytics+Dashboard+Included" alt="Typing SVG" />
 </p>
 
 <p align="center">
