@@ -1,12 +1,16 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC1FF&width=700&lines=🏨+Smart+Hostel+Issue+Tracking+System;🔧+Report,+Track,+Resolve+Issues+Easily;📊+Analytics+Dashboard+Included)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC1FF&width=1000&lines=🏨+Smart+Hostel+Issue+Tracking+System;🔧+Report,+Track,+Resolve+Issues+Easily;📊+Analytics+Dashboard+Included" alt="Typing SVG" />
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
+<p align="center">
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+</p>
 ---
 
 ## Project Overview
