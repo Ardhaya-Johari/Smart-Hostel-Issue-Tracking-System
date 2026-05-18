@@ -23,11 +23,7 @@ The **Smart Hostel Issue Tracking System** is a full-stack application to **repo
 
 ## Features ✨
 
-* **Student Portal:** Report issues, view own and public issues, comment, view announcements.
-* **Admin Portal:** Assign issues, update status, post announcements, moderate comments, view analytics.
-* **Lost & Found:** Report lost/found items, manage claims.
-* **Analytics:** Track issue trends, resolution times, hostel/block-wise stats.
-* **Role-Based Access:** JWT auth and password hashing for secure RBAC.
+
 
 ---
 
