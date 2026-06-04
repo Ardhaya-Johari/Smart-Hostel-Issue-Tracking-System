@@ -16,8 +16,7 @@
 </p>
 
 ## Project Overview
-
-
+The **Smart Hostel Issue Tracking System** is a full-stack application to **report, track, and resolve hostel maintenance issues** efficiently. Students submit issues, admins assign and monitor them, and analytics provide actionable insights.
 
 ---
 
